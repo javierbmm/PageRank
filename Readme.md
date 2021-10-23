@@ -24,16 +24,20 @@ this structure (space separated):
 | n | 0       | example.com  |
 | n | 1       | example2.net |
 | n | 2       | another.gov  |
+
+
 _First column has a letter `n` to differentiate this section_
 
 
-*From line 9665 to 25815:**
+**From line 9665 to 25815:**
 
 | e | From (ID) | To (ID) |
 |---|-----------|---------|
 | e | 0         | 2       |
 | e | 2         | 1       |
 | e | 1         | 0       |
+
+
 _First column has a letter `e` to differentiate this section_
 
 ## Implementation
